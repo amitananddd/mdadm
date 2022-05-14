@@ -15,3 +15,7 @@ struct group *getgrnam(const char *name)
 {
 	return NULL;
 }
+
+#Square implementation
+def sqiare(x):
+    return x*x
